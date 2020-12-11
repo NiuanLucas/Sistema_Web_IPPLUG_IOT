@@ -1,0 +1,25 @@
+[08-Sep-2018 18:37:51 UTC] PHP Notice:  Undefined variable: sensor in /home/c8horme0foo3/public_html/App/View/valores/valores.php on line 90
+[08-Sep-2018 18:37:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getTomada1() on null in /home/c8horme0foo3/public_html/App/View/valores/valores.php:90
+Stack trace:
+#0 {main}
+  thrown in /home/c8horme0foo3/public_html/App/View/valores/valores.php on line 90
+[08-Sep-2018 18:37:59 UTC] PHP Notice:  Undefined variable: sensor in /home/c8horme0foo3/public_html/App/View/valores/valores.php on line 90
+[08-Sep-2018 18:37:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getTomada1() on null in /home/c8horme0foo3/public_html/App/View/valores/valores.php:90
+Stack trace:
+#0 {main}
+  thrown in /home/c8horme0foo3/public_html/App/View/valores/valores.php on line 90
+[08-Sep-2018 18:38:10 UTC] PHP Notice:  Undefined variable: sensor in /home/c8horme0foo3/public_html/App/View/valores/valores.php on line 90
+[08-Sep-2018 18:38:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getTomada1() on null in /home/c8horme0foo3/public_html/App/View/valores/valores.php:90
+Stack trace:
+#0 {main}
+  thrown in /home/c8horme0foo3/public_html/App/View/valores/valores.php on line 90
+[08-Sep-2018 18:40:22 UTC] PHP Notice:  Undefined variable: sensor in /home/c8horme0foo3/public_html/App/View/valores/valores.php on line 90
+[08-Sep-2018 18:40:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getTomada1() on null in /home/c8horme0foo3/public_html/App/View/valores/valores.php:90
+Stack trace:
+#0 {main}
+  thrown in /home/c8horme0foo3/public_html/App/View/valores/valores.php on line 90
+[08-Sep-2018 18:41:58 UTC] PHP Notice:  Undefined variable: sensor in /home/c8horme0foo3/public_html/App/View/valores/valores.php on line 90
+[08-Sep-2018 18:41:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getTomada1() on null in /home/c8horme0foo3/public_html/App/View/valores/valores.php:90
+Stack trace:
+#0 {main}
+  thrown in /home/c8horme0foo3/public_html/App/View/valores/valores.php on line 90
